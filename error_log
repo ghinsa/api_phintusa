@@ -1,0 +1,21 @@
+[19-Apr-2018 23:55:43 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[19-Apr-2018 23:57:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 5
+[19-Apr-2018 23:57:55 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[19-Apr-2018 23:58:36 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:00:37 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:03:16 Asia/Jakarta] PHP Fatal error:  Call to a member function library() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:03:28 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:04:42 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:04:50 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:06:24 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 12
+[20-Apr-2018 00:08:34 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:16:28 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:17:36 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:17:47 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:19:06 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:21:26 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:21:28 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:21:29 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:21:31 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:22:31 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
+[20-Apr-2018 00:24:51 Asia/Jakarta] PHP Fatal error:  Call to a member function helper() on a non-object in /home/owlproject2304/public_html/apiphintusa/application/controllers/Auth.php on line 13
